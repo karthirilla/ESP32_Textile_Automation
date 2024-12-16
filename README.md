@@ -31,6 +31,9 @@ Since this is part of a proprietary company project, many hardware designs, sens
 ### Back View
 ![V3 Back](https://github.com/karthirilla/ESP32_Textile_Automation/blob/main/ESP32_TEXTILE_AUTOMATION_V3_BACK.png)
 
+![V3](https://github.com/karthirilla/ESP32_Textile_Automation/blob/main/ESP32_TEXTILE_AUTOMATION_V3_FRONT_1.jpg)
+
+
 
 ### Key Features
 
