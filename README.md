@@ -6,6 +6,32 @@ The **ESP32 Textile Automation** project is designed to provide an IoT solution 
 
 Since this is part of a proprietary company project, many hardware designs, sensor data, and detailed implementations are confidential. The system is designed to be scalable, cost-effective, and robust for large-scale industrial applications in the textile sector.
 
+
+## Version 1
+
+### Front View
+![V1 Front](https://github.com/karthirilla/ESP32_Textile_Automation/blob/main/ESP32_TEXTILE_AUTOMATION_V1_FRONT.png)
+
+### Back View
+![V1 Back](https://github.com/karthirilla/ESP32_Textile_Automation/blob/main/ESP32_TEXTILE_AUTOMATION_V1_BACK.png)
+
+## Version 2
+
+### Front View
+![V2 Front](https://github.com/karthirilla/ESP32_Textile_Automation/blob/main/ESP32_TEXTILE_AUTOMATION_V2_FRONT.png)
+
+### Back View
+![V2 Back](https://github.com/karthirilla/ESP32_Textile_Automation/blob/main/ESP32_TEXTILE_AUTOMATION_V2_BACK.png)
+
+## Version 3
+
+### Front View
+![V3 Front](https://github.com/karthirilla/ESP32_Textile_Automation/blob/main/ESP32_TEXTILE_AUTOMATION_V3_FRONT.png)
+
+### Back View
+![V3 Back](https://github.com/karthirilla/ESP32_Textile_Automation/blob/main/ESP32_TEXTILE_AUTOMATION_V3_BACK.png)
+
+
 ### Key Features
 
 - **ESP32-S3 Microcontroller**: The heart of the system, providing advanced capabilities for IoT solutions, including Wi-Fi, Bluetooth, and external hardware connections.
